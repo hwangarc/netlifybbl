@@ -7,6 +7,6 @@ package = "@netlify/plugin-nextjs"
 
 [[redirects]]
   from = "/*"
-  to = "https://ziranews.com/:splat"
+  to = "https://bestpetlove.net/:splat"
   status = 301
   force = true
